@@ -1,5 +1,7 @@
 # fabchallenge03 - LIGHT MEASURER
 
+<img src="/cover.jpeg" width ="100%">
+
 ## IDEATION
 
 ### INITIAL IDEA + CONCEPT
@@ -171,7 +173,7 @@ Configure using the html the type of gardening you would like to pursue and meas
 
 ### DESIGN FILES
 
-[Find them here.](light measurer-design files.zip)
+[Find them here.](https://github.com/julia-steketee/Fab-Academy-Challenge-3/blob/addeb557d866bdc177366adcfb5fb62757b23054/light%20measurer-design%20files.zip)
 
 
 ### FINAL PRODUCT PHOTOS
