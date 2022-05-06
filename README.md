@@ -33,6 +33,8 @@ This project required some heavy programming + electronic skills and some additi
 
 ### DIAGRAM
 
+<img src="/diagram-01.jpg" width ="100%">
+
 
 ### INTEGRATED DESIGN
 
@@ -162,6 +164,9 @@ Put the shell together with the electronics.
 Configure using the html the type of gardening you would like to pursue and measure.
 
 <img src="/tomato.jpeg" width ="100%">.
+<img src="/tomato2.jpeg" width ="100%">.
+<img src="/spinach.jpeg" width ="100%">.
+<img src="/spinach2.jpeg" width ="100%">.
 
 
 ### DESIGN FILES
