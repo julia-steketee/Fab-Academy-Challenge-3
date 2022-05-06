@@ -171,7 +171,7 @@ Configure using the html the type of gardening you would like to pursue and meas
 
 ### DESIGN FILES
 
-[Find them here.](https://github.com/gecrgehanna/fabchallenge02/tree/main/zoetrope_design%20files)
+[Find them here.](light measurer-design files.zip)
 
 
 ### FINAL PRODUCT PHOTOS
